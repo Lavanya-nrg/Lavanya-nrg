@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lavanya Narang</h1>
 <h3 align="center">Exploring different technologies.</h3>
 
-- 🔭 I’m currently working on **SQL DATABASES**
+- 🔭 I’m currently working on **SQL Databases**
 
 - 🌱 I’m currently learning **Python**
 
