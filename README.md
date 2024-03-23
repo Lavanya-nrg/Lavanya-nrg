@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lavanya-narang.github.io/Portfolio/](https://lavanya-narang.github.io/Portfolio/)
 
-- 📫 How to reach me **lavanyanarang1234@gmail.com**
+- 📫 How to reach me **lavanya.narang@dataverze.ai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
