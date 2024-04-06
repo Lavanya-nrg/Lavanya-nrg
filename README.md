@@ -22,3 +22,18 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavanya-nrg&show_icons=true&locale=en" alt="lavanya-nrg" /></p>
 
+
+
+<h1 align="center">Lavanya Narang</h1>
+
+👋 Hello there! Welcome to my GitHub profile. I'm Lavanya, a passionate software engineer with a knack for building innovative solutions. Here you'll find a collection of my projects, contributions, and explorations in the world of technology.
+<br>
+<h3>About Me</h3>
+
+🎓 I hold a Bachelor of Technology (B.Tech) degree in Information Technology.
+
+💼 Currently, I am working as a Data Analyst to apply my skills and contribute to meaningful projects.
+
+💻 My interests span across various domains of software development including web development, machine learning, and cloud computing.
+
+🚀 I love learning and experimenting with new technologies to stay updated with the latest trends in the industry.
