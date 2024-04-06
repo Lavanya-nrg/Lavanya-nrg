@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lavanya Narang</h1>
 <h3 align="center">Exploring different technologies.</h3>
 
-- 🔭 I’m currently working on **SQL Databases**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Big Data**
 
 - 👨‍💻 All of my projects are available at [https://lavanya-narang.github.io/Portfolio/](https://lavanya-narang.github.io/Portfolio/)
 
